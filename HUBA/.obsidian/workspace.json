@@ -1,0 +1,278 @@
+{
+  "main": {
+    "id": "e38190462ab12a0b",
+    "type": "split",
+    "children": [
+      {
+        "id": "e30bd8ec6fda4c82",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fd57716137f43710",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Welcome.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Welcome"
+            }
+          },
+          {
+            "id": "443dec3a3149febb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "FPGA/O co chodzi.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "O co chodzi"
+            }
+          },
+          {
+            "id": "0757a3ff20402e62",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "FPGA/Podstawy składni Verilog.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Podstawy składni Verilog"
+            }
+          },
+          {
+            "id": "09fbefb6b6554842",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "FPGA/Podstawy składni Verilog.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Podstawy składni Verilog"
+            }
+          }
+        ],
+        "currentTab": 3
+      },
+      {
+        "id": "05f9c6d960b77498",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c4b4f16724c0c621",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9d15b24010f61316",
+    "type": "split",
+    "children": [
+      {
+        "id": "9d0adf3e5cfc1e52",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e6f15e04b478fc92",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "dc7da1366f83cf14",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "537ec3b7a8199a67",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "a419c5ab046ead78",
+    "type": "split",
+    "children": [
+      {
+        "id": "c6e7862d3b8a0b2c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e59a9feff5fc7376",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "FPGA/Podstawy składni Verilog.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "23edeec7faf7a2d6",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "FPGA/Podstawy składni Verilog.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "386020524244adb8",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "bcb4aa048f54d769",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "9a22042daca0e0d3",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "FPGA/Podstawy składni Verilog.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "09fbefb6b6554842",
+  "lastOpenFiles": [
+    "Projekt p-komputer/09 Zespół, interfejsy i plan.md",
+    "Projekt p-komputer/10 Ryzyka i otwarte pytania.md",
+    "Projekt p-komputer/01 Teoria - p-bity, Ising, QUBO.md",
+    "Projekt p-komputer/00 Przegląd projektu.md",
+    "FPGA/W jaki sposób otworzyć i używać projektu verilog.md",
+    "FPGA/Podstawy składni Verilog.md",
+    "Projekt p-komputer/06 Zastosowania - optymalizacja.md",
+    "Projekt p-komputer/07 Zastosowania - cyberbezpieczeństwo.md",
+    "Projekt p-komputer/05 TRNG - generator szumu.md",
+    "Projekt p-komputer/02 Kompilator (PC).md",
+    "Projekt p-komputer/10 Ryzyka i otwarte pytania.md.tmp.12193.ce263b6e7ef8",
+    "Projekt p-komputer/09 Zespół, interfejsy i plan.md.tmp.12193.5ec2aaca5d06",
+    "Projekt p-komputer/08 Sprzęt - prototyp i płytka docelowa.md",
+    "Projekt p-komputer/08 Sprzęt - prototyp i płytka docelowa.md.tmp.12193.c764ad19aed9",
+    "Projekt p-komputer/07 Zastosowania - cyberbezpieczeństwo.md.tmp.12193.002d5f5e692b",
+    "Projekt p-komputer/04 FPGA - macierz p-bitów.md",
+    "Projekt p-komputer/06 Zastosowania - optymalizacja.md.tmp.12193.6ea5f7f64078",
+    "Projekt p-komputer/03 Mikrokontroler.md",
+    "FPGA/O co chodzi.md",
+    "Projekt p-komputer/05 TRNG - generator szumu.md.tmp.12193.87ec0d550c1c",
+    "Projekt p-komputer/05 TRNG - generator szumu.md.tmp.12193.9471fda7a3b2",
+    "Projekt p-komputer/04 FPGA - macierz p-bitów.md.tmp.12193.9bfba8a2a003",
+    "Projekt p-komputer/03 Mikrokontroler.md.tmp.12193.6b5dff3d94ac",
+    "Projekt p-komputer/02 Kompilator (PC).md.tmp.12193.90758d129a78",
+    "Welcome.md"
+  ]
+}
